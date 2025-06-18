@@ -79,9 +79,7 @@ Notification system for drivers
 Contributions, suggestions, and improvements are welcome! Feel free to fork the repo and submit a pull request.
 
 
----
 
-Let me know if you'd like to include any screenshots, model architecture diagram, or dataset source info in the README as well!
 
 
 
